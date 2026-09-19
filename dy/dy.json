@@ -1,0 +1,546 @@
+{
+  "name": "抖音",
+  "type": "image",
+  "items": [
+    {
+      "key": "dy-6",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/6.png"
+    },
+    {
+      "key": "dy-666",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/666.png"
+    },
+    {
+      "key": "dy-OMG",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/OMG.png"
+    },
+    {
+      "key": "dy-一头乱麻",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/一头乱麻.png"
+    },
+    {
+      "key": "dy-不你不想",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/不你不想.png"
+    },
+    {
+      "key": "dy-不是吧",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/不是吧.png"
+    },
+    {
+      "key": "dy-九转大肠",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/九转大肠.png"
+    },
+    {
+      "key": "dy-二哈",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/二哈.png"
+    },
+    {
+      "key": "dy-互粉",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/互粉.png"
+    },
+    {
+      "key": "dy-亲亲",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/亲亲.png"
+    },
+    {
+      "key": "dy-你不行",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/你不行.png"
+    },
+    {
+      "key": "dy-做鬼脸",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/做鬼脸.png"
+    },
+    {
+      "key": "dy-偷笑",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/偷笑.png"
+    },
+    {
+      "key": "dy-关注我",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/关注我.png"
+    },
+    {
+      "key": "dy-再见",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/再见.png"
+    },
+    {
+      "key": "dy-冷漠",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/冷漠.png"
+    },
+    {
+      "key": "dy-别走",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/别走.png"
+    },
+    {
+      "key": "dy-加好友",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/加好友.png"
+    },
+    {
+      "key": "dy-加油",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/加油.png"
+    },
+    {
+      "key": "dy-努力",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/努力.png"
+    },
+    {
+      "key": "dy-厉害",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/厉害.png"
+    },
+    {
+      "key": "dy-双手合十",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/双手合十.png"
+    },
+    {
+      "key": "dy-发呆",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/发呆.png"
+    },
+    {
+      "key": "dy-发怒",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/发怒.png"
+    },
+    {
+      "key": "dy-可怜",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/可怜.png"
+    },
+    {
+      "key": "dy-叹气",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/叹气.png"
+    },
+    {
+      "key": "dy-吃瓜群众",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/吃瓜群众.png"
+    },
+    {
+      "key": "dy-吐",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/吐.png"
+    },
+    {
+      "key": "dy-吐血",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/吐血.png"
+    },
+    {
+      "key": "dy-含泪微笑",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/含泪微笑.png"
+    },
+    {
+      "key": "dy-听歌",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/听歌.png"
+    },
+    {
+      "key": "dy-呆",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/呆.png"
+    },
+    {
+      "key": "dy-呲牙",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/呲牙.png"
+    },
+    {
+      "key": "dy-咒骂",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/咒骂.png"
+    },
+    {
+      "key": "dy-哈欠",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/哈欠.png"
+    },
+    {
+      "key": "dy-啊这",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/啊这.png"
+    },
+    {
+      "key": "dy-嘘",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/嘘.png"
+    },
+    {
+      "key": "dy-嘿哈",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/嘿哈.png"
+    },
+    {
+      "key": "dy-囧",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/囧.png"
+    },
+    {
+      "key": "dy-困",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/困.png"
+    },
+    {
+      "key": "dy-坏笑",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/坏笑.png"
+    },
+    {
+      "key": "dy-大哭",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/大哭.png"
+    },
+    {
+      "key": "dy-大笑",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/大笑.png"
+    },
+    {
+      "key": "dy-奸笑",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/奸笑.png"
+    },
+    {
+      "key": "dy-好开心",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/好开心.png"
+    },
+    {
+      "key": "dy-如花",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/如花.png"
+    },
+    {
+      "key": "dy-委屈",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/委屈.png"
+    },
+    {
+      "key": "dy-宕机",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/宕机.png"
+    },
+    {
+      "key": "dy-害羞",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/害羞.png"
+    },
+    {
+      "key": "dy-尬笑",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/尬笑.png"
+    },
+    {
+      "key": "dy-展开说说",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/展开说说.png"
+    },
+    {
+      "key": "dy-帅",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/帅.png"
+    },
+    {
+      "key": "dy-干饭",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/干饭.png"
+    },
+    {
+      "key": "dy-强",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/强.png"
+    },
+    {
+      "key": "dy-往这儿亲",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/往这儿亲.png"
+    },
+    {
+      "key": "dy-得意",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/得意.png"
+    },
+    {
+      "key": "dy-微笑",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/微笑.png"
+    },
+    {
+      "key": "dy-必胜",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/必胜.png"
+    },
+    {
+      "key": "dy-快哭了",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/快哭了.png"
+    },
+    {
+      "key": "dy-思考",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/思考.png"
+    },
+    {
+      "key": "dy-急了",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/急了.png"
+    },
+    {
+      "key": "dy-恐惧",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/恐惧.png"
+    },
+    {
+      "key": "dy-悠闲",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/悠闲.png"
+    },
+    {
+      "key": "dy-惊喜",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/惊喜.png"
+    },
+    {
+      "key": "dy-惊恐",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/惊恐.png"
+    },
+    {
+      "key": "dy-惊讶",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/惊讶.png"
+    },
+    {
+      "key": "dy-愉快",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/愉快.png"
+    },
+    {
+      "key": "dy-打脸",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/打脸.png"
+    },
+    {
+      "key": "dy-抓狂",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/抓狂.png"
+    },
+    {
+      "key": "dy-投降",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/投降.png"
+    },
+    {
+      "key": "dy-抠鼻",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/抠鼻.png"
+    },
+    {
+      "key": "dy-抱",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/抱.png"
+    },
+    {
+      "key": "dy-拒绝",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/拒绝.png"
+    },
+    {
+      "key": "dy-捂眼",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/捂眼.png"
+    },
+    {
+      "key": "dy-捂脸",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/捂脸.png"
+    },
+    {
+      "key": "dy-捂脸疼",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/捂脸疼.png"
+    },
+    {
+      "key": "dy-摸头",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/摸头.png"
+    },
+    {
+      "key": "dy-撇嘴",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/撇嘴.png"
+    },
+    {
+      "key": "dy-擦汗",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/擦汗.png"
+    },
+    {
+      "key": "dy-敲打",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/敲打.png"
+    },
+    {
+      "key": "dy-敲木鱼",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/敲木鱼.png"
+    },
+    {
+      "key": "dy-斜眼",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/斜眼.png"
+    },
+    {
+      "key": "dy-无语",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/无语.png"
+    },
+    {
+      "key": "dy-晕",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/晕.png"
+    },
+    {
+      "key": "dy-暗中观察",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/暗中观察.png"
+    },
+    {
+      "key": "dy-栓Q",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/栓Q.png"
+    },
+    {
+      "key": "dy-比心",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/比心.png"
+    },
+    {
+      "key": "dy-求抱抱",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/求抱抱.png"
+    },
+    {
+      "key": "dy-求求了",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/求求了.png"
+    },
+    {
+      "key": "dy-没眼看",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/没眼看.png"
+    },
+    {
+      "key": "dy-泣不成声",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/泣不成声.png"
+    },
+    {
+      "key": "dy-泪奔",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/泪奔.png"
+    },
+    {
+      "key": "dy-流泪",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/流泪.png"
+    },
+    {
+      "key": "dy-灵机一动",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/灵机一动.png"
+    },
+    {
+      "key": "dy-爱心",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/爱心.png"
+    },
+    {
+      "key": "dy-爱心吻",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/爱心吻.png"
+    },
+    {
+      "key": "dy-爱钱",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/爱钱.png"
+    },
+    {
+      "key": "dy-狗头",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/狗头.png"
+    },
+    {
+      "key": "dy-猪猪",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/猪猪.png"
+    },
+    {
+      "key": "dy-玫瑰",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/玫瑰.png"
+    },
+    {
+      "key": "dy-生气",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/生气.png"
+    },
+    {
+      "key": "dy-白眼",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/白眼.png"
+    },
+    {
+      "key": "dy-皱眉",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/皱眉.png"
+    },
+    {
+      "key": "dy-看你的",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/看你的.png"
+    },
+    {
+      "key": "dy-真棒",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/真棒.png"
+    },
+    {
+      "key": "dy-石化",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/石化.png"
+    },
+    {
+      "key": "dy-礼貌",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/礼貌.png"
+    },
+    {
+      "key": "dy-笑哭",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/笑哭.png"
+    },
+    {
+      "key": "dy-绿帽子",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/绿帽子.png"
+    },
+    {
+      "key": "dy-翻白眼",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/翻白眼.png"
+    },
+    {
+      "key": "dy-老实笑",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/老实笑.png"
+    },
+    {
+      "key": "dy-耶",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/耶.png"
+    },
+    {
+      "key": "dy-脸红",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/脸红.png"
+    },
+    {
+      "key": "dy-舔屏",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/舔屏.png"
+    },
+    {
+      "key": "dy-苦涩",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/苦涩.png"
+    },
+    {
+      "key": "dy-菜狗",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/菜狗.png"
+    },
+    {
+      "key": "dy-蜜蜂狗",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/蜜蜂狗.png"
+    },
+    {
+      "key": "dy-表面笑",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/表面笑.png"
+    },
+    {
+      "key": "dy-衰",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/衰.png"
+    },
+    {
+      "key": "dy-裂开",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/裂开.png"
+    },
+    {
+      "key": "dy-调皮",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/调皮.png"
+    },
+    {
+      "key": "dy-赞",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/赞.png"
+    },
+    {
+      "key": "dy-跪",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/跪.png"
+    },
+    {
+      "key": "dy-躺",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/躺.png"
+    },
+    {
+      "key": "dy-还得是我",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/还得是我.png"
+    },
+    {
+      "key": "dy-送心",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/送心.png"
+    },
+    {
+      "key": "dy-逞强落泪",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/逞强落泪.png"
+    },
+    {
+      "key": "dy-鄙视",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/鄙视.png"
+    },
+    {
+      "key": "dy-闭嘴",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/闭嘴.png"
+    },
+    {
+      "key": "dy-阴险",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/阴险.png"
+    },
+    {
+      "key": "dy-难过",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/难过.png"
+    },
+    {
+      "key": "dy-震惊",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/震惊.png"
+    },
+    {
+      "key": "dy-鞠躬",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/鞠躬.png"
+    },
+    {
+      "key": "dy-黑脸",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/黑脸.png"
+    },
+    {
+      "key": "dy-鼓掌",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/dy/鼓掌.png"
+    }
+  ]
+}
