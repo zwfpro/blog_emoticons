@@ -1,0 +1,406 @@
+{
+  "name": "QQ",
+  "type": "image",
+  "items": [
+    {
+      "key": "qq-OK",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/OK.gif"
+    },
+    {
+      "key": "qq-NO",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/NO.gif"
+    },
+    {
+      "key": "qq-doge",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/doge.gif"
+    },
+    {
+      "key": "qq-emmm",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/emmm.gif"
+    },
+    {
+      "key": "qq-爱心",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/爱心.gif"
+    },
+    {
+      "key": "qq-暗中观察",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/暗中观察.gif"
+    },
+    {
+      "key": "qq-白眼",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/白眼.gif"
+    },
+    {
+      "key": "qq-抱抱",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/抱抱.gif"
+    },
+    {
+      "key": "qq-抱拳",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/抱拳.gif"
+    },
+    {
+      "key": "qq-鄙视",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/鄙视.gif"
+    },
+    {
+      "key": "qq-闭嘴",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/闭嘴.gif"
+    },
+    {
+      "key": "qq-擦汗",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/擦汗.gif"
+    },
+    {
+      "key": "qq-踩",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/踩.gif"
+    },
+    {
+      "key": "qq-沧桑",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/沧桑.gif"
+    },
+    {
+      "key": "qq-差劲",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/差劲.gif"
+    },
+    {
+      "key": "qq-吃瓜",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/吃瓜.gif"
+    },
+    {
+      "key": "qq-戳",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/戳.gif"
+    },
+    {
+      "key": "qq-呲牙笑",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/呲牙笑.gif"
+    },
+    {
+      "key": "qq-打哈欠",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/打哈欠.gif"
+    },
+    {
+      "key": "qq-大哭",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/大哭.gif"
+    },
+    {
+      "key": "qq-大笑",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/大笑.gif"
+    },
+    {
+      "key": "qq-蛋糕",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/蛋糕.gif"
+    },
+    {
+      "key": "qq-得意",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/得意.gif"
+    },
+    {
+      "key": "qq-发呆",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/发呆.gif"
+    },
+    {
+      "key": "qq-愤怒",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/愤怒.gif"
+    },
+    {
+      "key": "qq-尴尬",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/尴尬.gif"
+    },
+    {
+      "key": "qq-勾引",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/勾引.gif"
+    },
+    {
+      "key": "qq-鼓掌",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/鼓掌.gif"
+    },
+    {
+      "key": "qq-害羞",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/害羞.gif"
+    },
+    {
+      "key": "qq-很赞",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/很赞.gif"
+    },
+    {
+      "key": "qq-哼",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/哼.gif"
+    },
+    {
+      "key": "qq-滑稽",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/滑稽.gif"
+    },
+    {
+      "key": "qq-坏笑",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/坏笑.gif"
+    },
+    {
+      "key": "qq-饥饿",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/饥饿.gif"
+    },
+    {
+      "key": "qq-加油",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/加油.gif"
+    },
+    {
+      "key": "qq-惊呆",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/惊呆.gif"
+    },
+    {
+      "key": "qq-惊恐",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/惊恐.gif"
+    },
+    {
+      "key": "qq-惊讶",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/惊讶.gif"
+    },
+    {
+      "key": "qq-可爱",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/可爱.gif"
+    },
+    {
+      "key": "qq-可怜",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/可怜.gif"
+    },
+    {
+      "key": "qq-酷",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/酷.gif"
+    },
+    {
+      "key": "qq-快哭了",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/快哭了.gif"
+    },
+    {
+      "key": "qq-狂笑",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/狂笑.gif"
+    },
+    {
+      "key": "qq-困",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/困.gif"
+    },
+    {
+      "key": "qq-辣眼睛",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/辣眼睛.gif"
+    },
+    {
+      "key": "qq-泪奔",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/泪奔.gif"
+    },
+    {
+      "key": "qq-冷汗",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/冷汗.gif"
+    },
+    {
+      "key": "qq-礼物",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/礼物.gif"
+    },
+    {
+      "key": "qq-流汗",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/流汗.gif"
+    },
+    {
+      "key": "qq-流泪",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/流泪.gif"
+    },
+    {
+      "key": "qq-略略略",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/略略略.gif"
+    },
+    {
+      "key": "qq-卖萌",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/卖萌.gif"
+    },
+    {
+      "key": "qq-谩骂",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/谩骂.gif"
+    },
+    {
+      "key": "qq-魔鬼笑",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/魔鬼笑.gif"
+    },
+    {
+      "key": "qq-难过",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/难过.gif"
+    },
+    {
+      "key": "qq-脑阔痛",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/脑阔痛.gif"
+    },
+    {
+      "key": "qq-柠檬",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/柠檬.gif"
+    },
+    {
+      "key": "qq-哦哟",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/哦哟.gif"
+    },
+    {
+      "key": "qq-撇嘴",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/撇嘴.gif"
+    },
+    {
+      "key": "qq-敲打",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/敲打.gif"
+    },
+    {
+      "key": "qq-糗大了",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/糗大了.gif"
+    },
+    {
+      "key": "qq-拳头",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/拳头.gif"
+    },
+    {
+      "key": "qq-色",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/色.gif"
+    },
+    {
+      "key": "qq-睡",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/睡.gif"
+    },
+    {
+      "key": "qq-太阳",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/太阳.gif"
+    },
+    {
+      "key": "qq-头秃",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/头秃.gif"
+    },
+    {
+      "key": "qq-吐",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/吐.gif"
+    },
+    {
+      "key": "qq-吐血",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/吐血.gif"
+    },
+    {
+      "key": "qq-托腮",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/托腮.gif"
+    },
+    {
+      "key": "qq-挖鼻孔",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/挖鼻孔.gif"
+    },
+    {
+      "key": "qq-哇哦",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/哇哦.gif"
+    },
+    {
+      "key": "qq-微笑",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/微笑.gif"
+    },
+    {
+      "key": "qq-委屈",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/委屈.gif"
+    },
+    {
+      "key": "qq-问号脸",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/问号脸.gif"
+    },
+    {
+      "key": "qq-我最美",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/我最美.gif"
+    },
+    {
+      "key": "qq-握手",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/握手.gif"
+    },
+    {
+      "key": "qq-无奈",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/无奈.gif"
+    },
+    {
+      "key": "qq-捂脸笑",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/捂脸笑.gif"
+    },
+    {
+      "key": "qq-捂嘴笑",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/捂嘴笑.gif"
+    },
+    {
+      "key": "qq-吓",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/吓.gif"
+    },
+    {
+      "key": "qq-小纠结",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/小纠结.gif"
+    },
+    {
+      "key": "qq-笑哭",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/笑哭.gif"
+    },
+    {
+      "key": "qq-心碎",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/心碎.gif"
+    },
+    {
+      "key": "qq-嘘",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/嘘.gif"
+    },
+    {
+      "key": "qq-耶",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/耶.gif"
+    },
+    {
+      "key": "qq-疑问",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/疑问.gif"
+    },
+    {
+      "key": "qq-阴险",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/阴险.gif"
+    },
+    {
+      "key": "qq-悠闲",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/悠闲.gif"
+    },
+    {
+      "key": "qq-右哼哼",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/右哼哼.gif"
+    },
+    {
+      "key": "qq-月亮",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/月亮.gif"
+    },
+    {
+      "key": "qq-晕",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/晕.gif"
+    },
+    {
+      "key": "qq-再见",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/再见.gif"
+    },
+    {
+      "key": "qq-赞",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/赞.gif"
+    },
+    {
+      "key": "qq-眨眼睛",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/眨眼睛.gif"
+    },
+    {
+      "key": "qq-折磨",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/折磨.gif"
+    },
+    {
+      "key": "qq-猪头",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/猪头.gif"
+    },
+    {
+      "key": "qq-助威",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/助威.gif"
+    },
+    {
+      "key": "qq-抓狂",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/抓狂.gif"
+    },
+    {
+      "key": "qq-左哼哼",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/左哼哼.gif"
+    },
+    {
+      "key": "qq-左亲亲",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/qq/左亲亲.gif"
+    }
+  ]
+}
