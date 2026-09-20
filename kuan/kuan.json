@@ -1,0 +1,502 @@
+{
+  "name": "酷安",
+  "type": "image",
+  "items": [
+    {
+      "key": "kuan-doge",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/doge.png"
+    },
+    {
+      "key": "kuan-doge呵斥",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/doge呵斥.png"
+    },
+    {
+      "key": "kuan-doge笑哭",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/doge笑哭.png"
+    },
+    {
+      "key": "kuan-doge原谅帽",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/doge原谅帽.png"
+    },
+    {
+      "key": "kuan-qqdoge",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/qqdoge.png"
+    },
+    {
+      "key": "kuan-二哈",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/二哈.png"
+    },
+    {
+      "key": "kuan-二哈盯",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/二哈盯.png"
+    },
+    {
+      "key": "kuan-滑稽",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/滑稽.png"
+    },
+    {
+      "key": "kuan-cos滑稽",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/cos滑稽.png"
+    },
+    {
+      "key": "kuan-墨镜滑稽",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/墨镜滑稽.png"
+    },
+    {
+      "key": "kuan-斗鸡眼滑稽",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/斗鸡眼滑稽.png"
+    },
+    {
+      "key": "kuan-受虐滑稽",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/受虐滑稽.png"
+    },
+    {
+      "key": "kuan-流汗滑稽",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/流汗滑稽.png"
+    },
+    {
+      "key": "kuan-得意滑稽",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/得意滑稽.png"
+    },
+    {
+      "key": "kuan-歪嘴滑稽",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/歪嘴滑稽.png"
+    },
+    {
+      "key": "kuan-妖娆滑稽",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/妖娆滑稽.png"
+    },
+    {
+      "key": "kuan-微笑",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/微笑.png"
+    },
+    {
+      "key": "kuan-微微一笑",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/微微一笑.png"
+    },
+    {
+      "key": "kuan-笑颜",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/笑颜.png"
+    },
+    {
+      "key": "kuan-大哭",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/大哭.png"
+    },
+    {
+      "key": "kuan-流泪",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/流泪.png"
+    },
+    {
+      "key": "kuan-哭了",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/哭了.png"
+    },
+    {
+      "key": "kuan-emo",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/emo.png"
+    },
+    {
+      "key": "kuan-ok",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/ok.png"
+    },
+    {
+      "key": "kuan-py",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/py.png"
+    },
+    {
+      "key": "kuan-下次一定",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/下次一定.png"
+    },
+    {
+      "key": "kuan-亲亲",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/亲亲.png"
+    },
+    {
+      "key": "kuan-佛系",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/佛系.png"
+    },
+    {
+      "key": "kuan-你懂的",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/你懂的.png"
+    },
+    {
+      "key": "kuan-你真棒",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/你真棒.png"
+    },
+    {
+      "key": "kuan-傲慢",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/傲慢.png"
+    },
+    {
+      "key": "kuan-再见",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/再见.png"
+    },
+    {
+      "key": "kuan-凋谢",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/凋谢.png"
+    },
+    {
+      "key": "kuan-发呆",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/发呆.png"
+    },
+    {
+      "key": "kuan-发怒",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/发怒.png"
+    },
+    {
+      "key": "kuan-发火",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/发火.png"
+    },
+    {
+      "key": "kuan-可怜",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/可怜.png"
+    },
+    {
+      "key": "kuan-可爱",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/可爱.png"
+    },
+    {
+      "key": "kuan-吃瓜",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/吃瓜.png"
+    },
+    {
+      "key": "kuan-吐舌",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/吐舌.png"
+    },
+    {
+      "key": "kuan-吧唧嘴",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/吧唧嘴.png"
+    },
+    {
+      "key": "kuan-呲牙",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/呲牙.png"
+    },
+    {
+      "key": "kuan-呵呵",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/呵呵.png"
+    },
+    {
+      "key": "kuan-哈哈哈",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/哈哈哈.png"
+    },
+    {
+      "key": "kuan-哈欠",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/哈欠.png"
+    },
+    {
+      "key": "kuan-喝咖啡",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/喝咖啡.png"
+    },
+    {
+      "key": "kuan-喝酒",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/喝酒.png"
+    },
+    {
+      "key": "kuan-喵喵",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/喵喵.png"
+    },
+    {
+      "key": "kuan-喷",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/喷.png"
+    },
+    {
+      "key": "kuan-喷血",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/喷血.png"
+    },
+    {
+      "key": "kuan-嘿哈",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/嘿哈.png"
+    },
+    {
+      "key": "kuan-噗",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/噗.png"
+    },
+    {
+      "key": "kuan-坏笑",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/坏笑.png"
+    },
+    {
+      "key": "kuan-委屈",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/委屈.png"
+    },
+    {
+      "key": "kuan-害羞",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/害羞.png"
+    },
+    {
+      "key": "kuan-小心翼翼",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/小心翼翼.png"
+    },
+    {
+      "key": "kuan-弱",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/弱.png"
+    },
+    {
+      "key": "kuan-强",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/强.png"
+    },
+    {
+      "key": "kuan-得意",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/得意.png"
+    },
+    {
+      "key": "kuan-心碎",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/心碎.png"
+    },
+    {
+      "key": "kuan-快走",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/快走.png"
+    },
+    {
+      "key": "kuan-惊讶",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/惊讶.png"
+    },
+    {
+      "key": "kuan-我最美",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/我最美.png"
+    },
+    {
+      "key": "kuan-扇子捂嘴",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/扇子捂嘴.png"
+    },
+    {
+      "key": "kuan-打脸",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/打脸.png"
+    },
+    {
+      "key": "kuan-托腮",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/托腮.png"
+    },
+    {
+      "key": "kuan-抠鼻",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/抠鼻.png"
+    },
+    {
+      "key": "kuan-抱拳",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/抱拳.png"
+    },
+    {
+      "key": "kuan-捂嘴笑",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/捂嘴笑.png"
+    },
+    {
+      "key": "kuan-捂脸",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/捂脸.png"
+    },
+    {
+      "key": "kuan-撇嘴",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/撇嘴.png"
+    },
+    {
+      "key": "kuan-无助",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/无助.png"
+    },
+    {
+      "key": "kuan-无奈",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/无奈.png"
+    },
+    {
+      "key": "kuan-无语",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/无语.png"
+    },
+    {
+      "key": "kuan-暗中观察",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/暗中观察.png"
+    },
+    {
+      "key": "kuan-机智",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/机智.png"
+    },
+    {
+      "key": "kuan-欢呼",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/欢呼.png"
+    },
+    {
+      "key": "kuan-汗",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/汗.png"
+    },
+    {
+      "key": "kuan-火把",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/火把.png"
+    },
+    {
+      "key": "kuan-爱心",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/爱心.png"
+    },
+    {
+      "key": "kuan-牛啤",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/牛啤.png"
+    },
+    {
+      "key": "kuan-玫瑰",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/玫瑰.png"
+    },
+    {
+      "key": "kuan-疑问",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/疑问.png"
+    },
+    {
+      "key": "kuan-白眼",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/白眼.png"
+    },
+    {
+      "key": "kuan-皱眉",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/皱眉.png"
+    },
+    {
+      "key": "kuan-看上面",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/看上面.png"
+    },
+    {
+      "key": "kuan-睡",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/睡.png"
+    },
+    {
+      "key": "kuan-瞥视",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/瞥视.png"
+    },
+    {
+      "key": "kuan-笑哭",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/笑哭.png"
+    },
+    {
+      "key": "kuan-红药丸",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/红药丸.png"
+    },
+    {
+      "key": "kuan-绿药丸",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/绿药丸.png"
+    },
+    {
+      "key": "kuan-耐克嘴",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/耐克嘴.png"
+    },
+    {
+      "key": "kuan-耶",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/耶.png"
+    },
+    {
+      "key": "kuan-色",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/色.png"
+    },
+    {
+      "key": "kuan-菜刀",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/菜刀.png"
+    },
+    {
+      "key": "kuan-观察",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/观察.png"
+    },
+    {
+      "key": "kuan-鄙视",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/鄙视.png"
+    },
+    {
+      "key": "kuan-酷",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/酷.png"
+    },
+    {
+      "key": "kuan-阴险",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/阴险.png"
+    },
+    {
+      "key": "kuan-难过",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/难过.png"
+    },
+    {
+      "key": "kuan-黑线",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/黑线.png"
+    },
+    {
+      "key": "kuan-1分",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/1分.png"
+    },
+    {
+      "key": "kuan-2分",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/2分.png"
+    },
+    {
+      "key": "kuan-5分",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/5分.png"
+    },
+    {
+      "key": "kuan-1毛",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/1毛.png"
+    },
+    {
+      "key": "kuan-2毛",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/2毛.png"
+    },
+    {
+      "key": "kuan-5毛",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/5毛.png"
+    },
+    {
+      "key": "kuan-1块",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/1块.png"
+    },
+    {
+      "key": "kuan-2块",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/2块.png"
+    },
+    {
+      "key": "kuan-5块",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/5块.png"
+    },
+    {
+      "key": "kuan-1欧",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/1欧.png"
+    },
+    {
+      "key": "kuan-2欧",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/2欧.png"
+    },
+    {
+      "key": "kuan-5欧",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/5欧.png"
+    },
+    {
+      "key": "kuan-1美元",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/1美元.png"
+    },
+    {
+      "key": "kuan-2美元",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/2美元.png"
+    },
+    {
+      "key": "kuan-5美元",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/5美元.png"
+    },
+    {
+      "key": "kuan-10",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/10.png"
+    },
+    {
+      "key": "kuan-20",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/20.png"
+    },
+    {
+      "key": "kuan-50",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/50.png"
+    },
+    {
+      "key": "kuan-100",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/100.png"
+    },
+    {
+      "key": "kuan-酷安",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/酷安.png"
+    },
+    {
+      "key": "kuan-酷安绿帽",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/酷安绿帽.png"
+    },
+    {
+      "key": "kuan-酷币",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/酷币.png"
+    },
+    {
+      "key": "kuan-绿帽",
+      "val": "https://cdn.jsdelivr.net/gh/zwfpro/blog_emoticons/kuan/绿帽.png"
+    }
+  ]
+}
